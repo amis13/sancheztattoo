@@ -37,6 +37,17 @@ button:focus {
 a:hover {
   text-decoration: none;
   color: #333399; }
+.mapaLocationAside{
+  max-width: 100%;
+  max-height: 100%;
+  margin-right: 15px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+}
+.mapdesktop {
+  padding-left: 5.3em;
+}
 
 img {
   max-width: 100%; }
@@ -755,6 +766,24 @@ section {
     width: 100%; }
   .progress {
     height: 30px;
-    font-size: 16px; } }
+    font-size: 16px; } 
+  .map {
+    max-width: 100%;
+    max-height: 100%;
+    padding: 0px 15px 15px 15px;
+    align-content: center;
+  }
+  .portadas {
+    max-width: 100%;
+    max-height: 100%;
+    margin-right: 15px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+  }
+  #textoPortada {
+    padding: 10px;
+  }
+  }
 
 /*=====  End of RESPONSIVE  ======*/
